@@ -73,9 +73,31 @@ Future Enhancements
 Integrate a backend (using Node.js or Python) to enable user authentication, real-time product updates, and a functional checkout process.
 Add advanced features like payment gateways, personalized recommendations, and product reviews.
 
-Core Azure Services:
+Azure App Service 
 
-Azure Blob Storage:- Azure Blob Storage is Microsoft's scalable object storage solution in the Azure cloud. It enables secure and cost-effective storage of unstructured data, such as documents and images. Offering seamless integration with applications, it supports data of any size and optimizes accessibility through a globally distributed network. Azure Storage Account:- Azure Storage Account is a foundational component in Microsoft Azure, providing secure and scalable cloud storage. It supports various storage services like Blob, File, Queue, and Table, accommodating diverse data types. With features such as redundancy options and access controls, it ensures reliable and efficient data management. Azure Backup Service:- Azure Backup Service by Microsoft safeguards critical data in the Azure cloud. It offers automated and scalable backup solutions for virtual machines, applications, and files. With features like long-term retention and geo-redundancy, it ensures data resilience and facilitates efficient disaster recovery, enhancing overall data protection strategies.
+Azure App Service is a fully managed platform-as-a-service (PaaS) offering by Microsoft Azure that enables developers to build, deploy, and scale web applications, RESTful APIs, and mobile backends. It supports various programming languages, frameworks, and deployment options. Here's a brief overview:
+
+Key Features:
+Multi-language Support:
+Supports .NET, Node.js, Python, Java, PHP, Ruby, and custom containers.
+
+Deployment Options:
+Supports CI/CD with GitHub, Azure DevOps, Docker Hub, and local Git repositories.
+
+Integrated Tools:
+Provides tools for debugging, diagnostics, and performance monitoring.
+
+High Availability:
+Built-in load balancing and auto-scaling to handle high traffic and ensure availability.
+
+Security:
+Includes SSL certificates, authentication/authorization integration with Azure Active Directory, and compliance with industry standards.
+
+Global Reach:
+Deploy apps globally in Azure’s data centers for better performance and latency.
+
+Hybrid and Cloud Integration:
+Easily integrate with other Azure services like Azure Functions, Logic Apps, and Virtual Networks.
 
 Azure AI Service
 
