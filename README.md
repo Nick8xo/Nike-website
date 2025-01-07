@@ -26,14 +26,6 @@ Nithin Chandra (Deployment) :Deployment and maintenance of project infrastructur
 
 E Prathyusha (Documentation) :Responsible for managing the documentation process.
 
-Azure services used:
-
-Azure App Service
-
-Azure AI services
-
-chatbot
-
 Project Description:
 
 Project Description
