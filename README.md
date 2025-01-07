@@ -1,18 +1,6 @@
 Nike Website
 This repository contains the source code for a Nike-themed website, showcasing various products and providing an interactive user experience.
 
-Table of Contents
-Demo
-Features
-Technologies Used
-Installation
-Usage
-Contributing
-License
-Contact
-Demo
-You can view a live demo of the website here: Nike Website Demo
-
 Features
 Responsive design compatible with various devices.
 Interactive product showcases.
@@ -21,9 +9,8 @@ Technologies Used
 HTML
 CSS
 JavaScript
-Installation
 
-Project Details
+#Project Details
 
 Project Demo URL: 
 
