@@ -22,50 +22,78 @@ HTML
 CSS
 JavaScript
 Installation
-To run this project locally:
 
-Clone the repository:
+Project Details
 
-bash
-Copy code
-git clone https://github.com/Nick8xo/Nike-website.git
-Navigate to the project directory:
+Project Demo URL: 
 
-bash
-Copy code
-cd Nike-website
-Open index.html in your preferred web browser.
+Demo Video URL: 
 
-Usage
-Explore the website to view various Nike products. Navigate through different sections to experience the interactive elements and responsive design.
+GitHub Repository URL: 
 
-Contributing
-Contributions are welcome! Please follow these steps:
+Industry: lifestyle-clothing 
 
-Fork the repository.
+K Nikhil (project management) :Manages the web development project.
 
-Create a new branch:
+Nithin Chandra (Deployment) :Deployment and maintenance of project infrastructure.
 
-bash
-Copy code
-git checkout -b feature-name
-Make your changes and commit them:
+E Prathyusha (Documentation) :Responsible for managing the documentation process.
 
-bash
-Copy code
-git commit -m 'Add new feature'
-Push to the branch:
+Azure services used:
 
-bash
-Copy code
-git push origin feature-name
-Open a pull request detailing your changes.
+Azure App Service
 
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
+Azure AI services
 
-Contact
-For any inquiries or feedback, please contact the project maintainer:
+chatbot
 
-GitHub: Nick8xo
-Email: nick8xo@example.com
+Project Description:
+
+Project Description
+The Nike Website Clone is a front-end web development project that replicates the design and functionality of a Nike e-commerce website. It is designed to showcase products, provide a user-friendly interface, and deliver an engaging shopping experience. The project demonstrates the use of modern web development practices, focusing on responsiveness, interactivity, and aesthetic design.
+
+Key Features
+Homepage:
+
+A visually appealing landing page with a hero banner displaying Nike’s latest products or promotions.
+Navigation bar with links to product categories, a search bar, and a shopping cart icon.
+Product Pages:
+
+Grid layouts showcasing Nike products with images, names, and prices.
+Hover effects for product images to reveal additional details or alternative views.
+Product Detail Page:
+
+A dynamic cart where users can view selected items, modify quantities, and proceed to checkout.
+Responsive Design:
+
+The website is fully responsive, ensuring optimal viewing and functionality across desktops, tablets, and smartphones.
+Interactive Elements:
+
+Dropdown menus, image sliders, and smooth scrolling for a modern browsing experience.
+JavaScript-driven features like filtering products, form validations, and updating the shopping cart dynamically.
+Footer Section:
+
+Links to social media profiles, customer service, and company information.
+Technologies Used
+HTML: For creating the structure of the website, including headers, sections, and forms.
+CSS: For styling the website, ensuring a clean and professional look with proper spacing, colors, and animations.
+JavaScript: For adding interactivity, such as product filtering, search functionality, and cart updates.
+Challenges Addressed
+Implemented a pixel-perfect design to emulate the Nike website’s aesthetics.
+Created reusable components and optimized CSS for maintainability.
+Ensured cross-browser compatibility and seamless performance on various devices.
+Future Enhancements
+Integrate a backend (using Node.js or Python) to enable user authentication, real-time product updates, and a functional checkout process.
+Add advanced features like payment gateways, personalized recommendations, and product reviews.
+
+Core Azure Services:
+
+Azure Blob Storage:- Azure Blob Storage is Microsoft's scalable object storage solution in the Azure cloud. It enables secure and cost-effective storage of unstructured data, such as documents and images. Offering seamless integration with applications, it supports data of any size and optimizes accessibility through a globally distributed network. Azure Storage Account:- Azure Storage Account is a foundational component in Microsoft Azure, providing secure and scalable cloud storage. It supports various storage services like Blob, File, Queue, and Table, accommodating diverse data types. With features such as redundancy options and access controls, it ensures reliable and efficient data management. Azure Backup Service:- Azure Backup Service by Microsoft safeguards critical data in the Azure cloud. It offers automated and scalable backup solutions for virtual machines, applications, and files. With features like long-term retention and geo-redundancy, it ensures data resilience and facilitates efficient disaster recovery, enhancing overall data protection strategies.
+
+Azure AI Service
+
+Azure Chatbot :- The Azure AI Language Chatbot is a cutting-edge conversational agent powered by Microsoft's Azure platform. Leveraging advanced natural language processing capabilities, it facilitates dynamic and context-aware interactions. This intelligent chatbot employs machine learning algorithms to comprehend user queries, providing personalized responses and assistance across diverse domains. Seamlessly integrating with Azure services, it ensures scalability and reliability.
+
+Screenshot’s:
+
+
