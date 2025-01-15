@@ -12,19 +12,6 @@ JavaScript
 
 #Project Details
 
-Project Demo URL: 
-
-Demo Video URL: 
-
-GitHub Repository URL: 
-
-Industry: lifestyle-clothing 
-
-K Nikhil (project management) :Manages the web development project.
-
-Nithin Chandra (Deployment) :Deployment and maintenance of project infrastructure.
-
-E Prathyusha (Documentation) :Responsible for managing the documentation process.
 
 Project Description:
 
