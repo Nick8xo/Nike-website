@@ -82,6 +82,6 @@ Azure AI Service
 
 Azure Chatbot :- The Azure AI Language Chatbot is a cutting-edge conversational agent powered by Microsoft's Azure platform. Leveraging advanced natural language processing capabilities, it facilitates dynamic and context-aware interactions. This intelligent chatbot employs machine learning algorithms to comprehend user queries, providing personalized responses and assistance across diverse domains. Seamlessly integrating with Azure services, it ensures scalability and reliability.
 
-Screenshot’s:
+Configured Azure Entra ID (formerly Azure Active Directory) for secure user authentication and access control.
 
 
